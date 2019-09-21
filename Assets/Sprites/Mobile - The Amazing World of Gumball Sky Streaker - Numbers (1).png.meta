@@ -1,0 +1,821 @@
+fileFormatVersion: 2
+guid: 64ab5b302b5c7b744b92c7bd370d025a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7702605312195308911
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_0
+  - first:
+      213: 1687825253322585341
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_1
+  - first:
+      213: -5603251921335472576
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_2
+  - first:
+      213: -723590438898605537
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_3
+  - first:
+      213: -511064517231239335
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_4
+  - first:
+      213: -3935407187497067311
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_5
+  - first:
+      213: 6950970572707898147
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_6
+  - first:
+      213: -8299412809851725535
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_7
+  - first:
+      213: -3470245670464174918
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_8
+  - first:
+      213: -7339748790779494732
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_9
+  - first:
+      213: -3692371096271388970
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_10
+  - first:
+      213: 3110900308389104783
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_11
+  - first:
+      213: -2713192933488460427
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_12
+  - first:
+      213: 3223567350515413594
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_13
+  - first:
+      213: -4922317818212508949
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_14
+  - first:
+      213: -5644464736658888891
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_15
+  - first:
+      213: -5615260542379396756
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_16
+  - first:
+      213: -2150277229211587489
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_17
+  - first:
+      213: 214150904020841758
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_18
+  - first:
+      213: -599122998572812540
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_19
+  - first:
+      213: 5912767765066037761
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_20
+  - first:
+      213: 7016771160730029880
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_21
+  - first:
+      213: 1759500855816924648
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_22
+  - first:
+      213: 8303528278575458335
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_23
+  - first:
+      213: -2503316999890693298
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_24
+  - first:
+      213: 6343426971017857270
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_25
+  - first:
+      213: -5487328673653079603
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_26
+  - first:
+      213: -3936676860291285238
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_27
+  - first:
+      213: 2097962964576775984
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_28
+  - first:
+      213: -8555371125467857940
+    second: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 696
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7e70a39d5c86944bac62104d2d91c1
+      internalID: -7702605312195308911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 696
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825ae8c8dfef7bc4b9cd180523be0beb
+      internalID: 1687825253322585341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 696
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7d1a0423e84e945a580066ce036164
+      internalID: -5603251921335472576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 696
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459ae3cf5149d1c4e810b6f69bdbd9f0
+      internalID: -723590438898605537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 696
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf894c62f514b4da84b1ccc6438f8c
+      internalID: -511064517231239335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 563
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36df09d2e9bdc1449a5a3594acb61016
+      internalID: -3935407187497067311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 563
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa42cc5f5eee3ac488b444f361b810ce
+      internalID: 6950970572707898147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 563
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaed0747eaabcf41bf67ea073d2ade1
+      internalID: -8299412809851725535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 563
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36910ef993da1245958e64b09c2921c
+      internalID: -3470245670464174918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 563
+        width: 65
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9660571be1cf345b956cf7c98c6b26
+      internalID: -7339748790779494732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 418
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14538ea3214f41f4f80b369d62d803da
+      internalID: -3692371096271388970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 418
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fbc03371638654aa2ea93ea9c24bea
+      internalID: 3110900308389104783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 418
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a0cb97cb96e2a4b9467f617f0bcef1
+      internalID: -2713192933488460427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 418
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07163d7ba60bb1644a8ee3d519df4a84
+      internalID: 3223567350515413594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 418
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3cc04e0fcdf45488dedbb9344975a9
+      internalID: -4922317818212508949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 285
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68130ee8106da034fb0e388daabef030
+      internalID: -5644464736658888891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 285
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01765ffd706d7a45ba69604cd4ab396
+      internalID: -5615260542379396756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 285
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f27cfaf6565124196c843e0fbf8cf2
+      internalID: -2150277229211587489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 285
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4cbca6fde48724a874e1df08d89f77
+      internalID: 214150904020841758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 285
+        width: 65
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180ef93fbb733f0469ffb5b6b1f3b4ff
+      internalID: -599122998572812540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 143
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a9b6a0aa18514448c69f72b7de5b38
+      internalID: 5912767765066037761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 143
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4171b8e1048c91b4f972ba31abf2cc01
+      internalID: 7016771160730029880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 143
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35faa3115ead15d49991e109ba37eb55
+      internalID: 1759500855816924648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 143
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d8fc179adf3624cba499bc308022bf
+      internalID: 8303528278575458335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 143
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17184e1538abfc24cb00c679a1f723c2
+      internalID: -2503316999890693298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 10
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df51b098d2024f0428ad5ff8afa7221b
+      internalID: 6343426971017857270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e8e00afd914b5409585298df344635
+      internalID: -5487328673653079603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 10
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3601287b747da4c99e5b33111ebb03
+      internalID: -3936676860291285238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_28
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 10
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13660ffd35f151241bb8f4b120318ed2
+      internalID: 2097962964576775984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Amazing World of Gumball Sky Streaker - Numbers (1)_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 10
+        width: 65
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0283daaec811a544898ff59ce02ffa22
+      internalID: -8555371125467857940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3233fb5f3e7f0c74eab699b44bb686c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

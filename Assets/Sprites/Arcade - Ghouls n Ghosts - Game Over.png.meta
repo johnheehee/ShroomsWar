@@ -1,0 +1,1445 @@
+fileFormatVersion: 2
+guid: 10d885dea4ccf2a4889b0d42c9479577
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8109165721240356577
+    second: Arcade - Ghouls n Ghosts - Game Over_0
+  - first:
+      213: -185919151960712465
+    second: Arcade - Ghouls n Ghosts - Game Over_1
+  - first:
+      213: -1732051605078358938
+    second: Arcade - Ghouls n Ghosts - Game Over_2
+  - first:
+      213: 4973994126478968
+    second: Arcade - Ghouls n Ghosts - Game Over_3
+  - first:
+      213: -4314762039128470111
+    second: Arcade - Ghouls n Ghosts - Game Over_4
+  - first:
+      213: -978212281776800300
+    second: Arcade - Ghouls n Ghosts - Game Over_5
+  - first:
+      213: -5281757525059748354
+    second: Arcade - Ghouls n Ghosts - Game Over_6
+  - first:
+      213: 8738758719790842832
+    second: Arcade - Ghouls n Ghosts - Game Over_7
+  - first:
+      213: -3717655097608571013
+    second: Arcade - Ghouls n Ghosts - Game Over_8
+  - first:
+      213: 8870841515515335644
+    second: Arcade - Ghouls n Ghosts - Game Over_9
+  - first:
+      213: -2712805185199194658
+    second: Arcade - Ghouls n Ghosts - Game Over_10
+  - first:
+      213: 8072510435744844816
+    second: Arcade - Ghouls n Ghosts - Game Over_11
+  - first:
+      213: 7214573969105380518
+    second: Arcade - Ghouls n Ghosts - Game Over_12
+  - first:
+      213: 6707589545843282774
+    second: Arcade - Ghouls n Ghosts - Game Over_13
+  - first:
+      213: -25443955355618013
+    second: Arcade - Ghouls n Ghosts - Game Over_14
+  - first:
+      213: -5702209330530088250
+    second: Arcade - Ghouls n Ghosts - Game Over_15
+  - first:
+      213: -1993822610838550358
+    second: Arcade - Ghouls n Ghosts - Game Over_16
+  - first:
+      213: -1870276452554128215
+    second: Arcade - Ghouls n Ghosts - Game Over_17
+  - first:
+      213: 1944696477043200606
+    second: Arcade - Ghouls n Ghosts - Game Over_18
+  - first:
+      213: -5573830085368581892
+    second: Arcade - Ghouls n Ghosts - Game Over_19
+  - first:
+      213: -7468204564746098792
+    second: Arcade - Ghouls n Ghosts - Game Over_20
+  - first:
+      213: -981753312015326644
+    second: Arcade - Ghouls n Ghosts - Game Over_21
+  - first:
+      213: 3185568769871909895
+    second: Arcade - Ghouls n Ghosts - Game Over_22
+  - first:
+      213: 4414387808595490826
+    second: Arcade - Ghouls n Ghosts - Game Over_23
+  - first:
+      213: 2164948041954074258
+    second: Arcade - Ghouls n Ghosts - Game Over_24
+  - first:
+      213: 7631698448073198579
+    second: Arcade - Ghouls n Ghosts - Game Over_25
+  - first:
+      213: -6083006933352448448
+    second: Arcade - Ghouls n Ghosts - Game Over_26
+  - first:
+      213: -978869759573411692
+    second: Arcade - Ghouls n Ghosts - Game Over_27
+  - first:
+      213: 2955216424966297456
+    second: Arcade - Ghouls n Ghosts - Game Over_28
+  - first:
+      213: -7996892515052423914
+    second: Arcade - Ghouls n Ghosts - Game Over_29
+  - first:
+      213: 2513785362731893345
+    second: Arcade - Ghouls n Ghosts - Game Over_30
+  - first:
+      213: -2838976229857079925
+    second: Arcade - Ghouls n Ghosts - Game Over_31
+  - first:
+      213: 8016589964374266478
+    second: Arcade - Ghouls n Ghosts - Game Over_32
+  - first:
+      213: 4540804164529972125
+    second: Arcade - Ghouls n Ghosts - Game Over_33
+  - first:
+      213: 926984538068420381
+    second: Arcade - Ghouls n Ghosts - Game Over_34
+  - first:
+      213: 5692485771212811620
+    second: Arcade - Ghouls n Ghosts - Game Over_35
+  - first:
+      213: 777002653797618498
+    second: Arcade - Ghouls n Ghosts - Game Over_36
+  - first:
+      213: 1192841762509206075
+    second: Arcade - Ghouls n Ghosts - Game Over_37
+  - first:
+      213: 6280803378510232127
+    second: Arcade - Ghouls n Ghosts - Game Over_38
+  - first:
+      213: -8697958307811786656
+    second: Arcade - Ghouls n Ghosts - Game Over_39
+  - first:
+      213: -7877491123467272761
+    second: Arcade - Ghouls n Ghosts - Game Over_40
+  - first:
+      213: 2532880168756216725
+    second: Arcade - Ghouls n Ghosts - Game Over_41
+  - first:
+      213: -9076860438604579565
+    second: Arcade - Ghouls n Ghosts - Game Over_42
+  - first:
+      213: -8581610836499219017
+    second: Arcade - Ghouls n Ghosts - Game Over_43
+  - first:
+      213: -5088821976071485530
+    second: Arcade - Ghouls n Ghosts - Game Over_44
+  - first:
+      213: 3889697163897953683
+    second: Arcade - Ghouls n Ghosts - Game Over_45
+  - first:
+      213: -419698955317848195
+    second: Arcade - Ghouls n Ghosts - Game Over_46
+  - first:
+      213: 4732189986136398799
+    second: Arcade - Ghouls n Ghosts - Game Over_47
+  - first:
+      213: -759968990025998597
+    second: Arcade - Ghouls n Ghosts - Game Over_48
+  - first:
+      213: 1300443831731849549
+    second: Arcade - Ghouls n Ghosts - Game Over_49
+  - first:
+      213: 6769420425660862601
+    second: Arcade - Ghouls n Ghosts - Game Over_50
+  - first:
+      213: 5389509835802861002
+    second: Arcade - Ghouls n Ghosts - Game Over_51
+  - first:
+      213: 8890292223603099491
+    second: Arcade - Ghouls n Ghosts - Game Over_52
+  - first:
+      213: -7563421706305690281
+    second: Arcade - Ghouls n Ghosts - Game Over_53
+  - first:
+      213: -3558579429910933362
+    second: Arcade - Ghouls n Ghosts - Game Over_54
+  - first:
+      213: -6710798658730636112
+    second: Arcade - Ghouls n Ghosts - Game Over_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3665db1ea2ab8204d8cc9047044e82ec
+      internalID: -8109165721240356577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 147
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e61e27eee8642a4ba47cac6a1e5277f
+      internalID: -185919151960712465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 148
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c43b3fa13e94c498d396189bdb995c
+      internalID: -1732051605078358938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 150
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd69b33229f2fc49af0b61b468ff6d3
+      internalID: 4973994126478968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0914a5c471080f4d910c4517b36d6a4
+      internalID: -4314762039128470111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68979c2357053a43a45658b66212541
+      internalID: -978212281776800300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 112
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e24b783559a6ef4298e677815f3c621
+      internalID: -5281757525059748354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d916844480ed5043a9eb60909921149
+      internalID: 8738758719790842832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 112
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb4775bec1936249a79afda93a67888
+      internalID: -3717655097608571013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 112
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18e54fd721f2cf4a992ed188f978aa7
+      internalID: 8870841515515335644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 112
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62ed87ffc7d8314da2a8952a84ad90c
+      internalID: -2712805185199194658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfbcd88c67a6544c9b3331e8f25bab8
+      internalID: 8072510435744844816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 136
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06812fbd40452214694ae3318ac1477e
+      internalID: 7214573969105380518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 79
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee49b8f195c7f4297480f3ee290722
+      internalID: 6707589545843282774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 79
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fad33065feae704b8f5d6a996b74f58
+      internalID: -25443955355618013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 79
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85eeae9922f3f8428a8ae8be2782b5f
+      internalID: -5702209330530088250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 79
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fc688e13a86ac4eb8093f1c001d9c4
+      internalID: -1993822610838550358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 79
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79600353c163e846b981743e6ed6c68
+      internalID: -1870276452554128215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 79
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456e96ce7f167e645a3cb69a9c575b48
+      internalID: 1944696477043200606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 79
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4abaa3bdb34a374eaef7c70e5b92938
+      internalID: -5573830085368581892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5b900da8d3e484ba13f70f0029736f
+      internalID: -7468204564746098792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc389ed3d2c957147aba2b0f096108a8
+      internalID: -981753312015326644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242c3ec50913c4c4db3cda76f3d418e4
+      internalID: 3185568769871909895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 38
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c32419114d9d8d45a898fb19b58200b
+      internalID: 4414387808595490826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af994b32d9b76364987b1f23d2d62dbe
+      internalID: 2164948041954074258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38631a7e3ffe89d46af341a7e92f2d92
+      internalID: 7631698448073198579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 41
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a5c18361609d4280011a47fe72372
+      internalID: -6083006933352448448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760b998c0e4abf541ab04c309b5b03b8
+      internalID: -978869759573411692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7878fc658f7c50418d01a003292600c
+      internalID: 2955216424966297456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 37
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb1d8dd61c7f2a47b3713e6128efb0f
+      internalID: -7996892515052423914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e313c50251fa74fbab1d677eb91de5
+      internalID: 2513785362731893345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 37
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cf61db835b1b441817f5629dd4432e
+      internalID: -2838976229857079925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4682a45fec3b4648a6c82e36562872c
+      internalID: 8016589964374266478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2574adb5af60fb4fb106158c02106d1
+      internalID: 4540804164529972125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92a2bff86fe1eb4db90cf8827623325
+      internalID: 926984538068420381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 28
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375b024e0a322574097320958c44a2c2
+      internalID: 5692485771212811620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 28
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3429a6f83807f924a92f40d376f4d92e
+      internalID: 777002653797618498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9de2e3f31b28a41aea7498a020cba7
+      internalID: 1192841762509206075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea889bf249026e4e814728ba4c4c76d
+      internalID: 6280803378510232127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95580458c65c8584b97c5d63793fb31a
+      internalID: -8697958307811786656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f0461fe95a7de43a6e1cb774733cc1
+      internalID: -7877491123467272761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 19
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27513d39b69487742b975c4eb34b2b27
+      internalID: 2532880168756216725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 19
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bec1ac37adc844abac1b2a671ccbf8
+      internalID: -9076860438604579565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fbc9bebf1b7044d999538fe5f1c17a
+      internalID: -8581610836499219017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadf4a8539e70b349a48f78500c44c32
+      internalID: -5088821976071485530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f180525829869254c952a7f35dc7850d
+      internalID: 3889697163897953683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d533e2f7204a4d745bf24408edf82928
+      internalID: -419698955317848195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf6b78c63d82644a35d4479b5eb023
+      internalID: 4732189986136398799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1ff6bae900b014d8f3e0b7bbe2f23a
+      internalID: -759968990025998597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992a0524f0d80df48aa503f22ea4e710
+      internalID: 1300443831731849549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a232d34db6775a4ea0ef44392251815
+      internalID: 6769420425660862601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b7bb66acca89f46b1cc1b202340d9d
+      internalID: 5389509835802861002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_52
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b37ac9d6e64be4197779abdb3a460f
+      internalID: 8890292223603099491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9416ac4ed12203f428c0493e81da9b61
+      internalID: -7563421706305690281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad97e243bf9f0ad4196730fbd0042710
+      internalID: -3558579429910933362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Game Over_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8130e36b269c9d041b13259fd658a460
+      internalID: -6710798658730636112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be46ac39a73de1a4dbeb2b4945aa9d9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

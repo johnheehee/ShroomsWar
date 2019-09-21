@@ -1,0 +1,1109 @@
+fileFormatVersion: 2
+guid: f8d9268eac2294974ad42ab7400d0b5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8564254581491443370
+    second: Poisonous Mushroom_0
+  - first:
+      213: -7233899042135491853
+    second: Poisonous Mushroom_1
+  - first:
+      213: 6326945137433665363
+    second: Poisonous Mushroom_2
+  - first:
+      213: -5457925529918762379
+    second: Poisonous Mushroom_3
+  - first:
+      213: -1054060144418682503
+    second: Poisonous Mushroom_4
+  - first:
+      213: -4135191355138991835
+    second: Poisonous Mushroom_5
+  - first:
+      213: 5339067332210121788
+    second: Poisonous Mushroom_6
+  - first:
+      213: 6584431889930475042
+    second: Poisonous Mushroom_7
+  - first:
+      213: -9011981684089648616
+    second: Poisonous Mushroom_8
+  - first:
+      213: 1016282522497426023
+    second: Poisonous Mushroom_9
+  - first:
+      213: 7271615700895199103
+    second: Poisonous Mushroom_10
+  - first:
+      213: -8636028189875094289
+    second: Poisonous Mushroom_11
+  - first:
+      213: 3682644698582690009
+    second: Poisonous Mushroom_12
+  - first:
+      213: 3528571469314831850
+    second: Poisonous Mushroom_13
+  - first:
+      213: -3568336111305124712
+    second: Poisonous Mushroom_14
+  - first:
+      213: -6427390184240918068
+    second: Poisonous Mushroom_15
+  - first:
+      213: 3232764385147636922
+    second: Poisonous Mushroom_16
+  - first:
+      213: -4062379573465993396
+    second: Poisonous Mushroom_17
+  - first:
+      213: 6825313087127384515
+    second: Poisonous Mushroom_18
+  - first:
+      213: -7697886903281835308
+    second: Poisonous Mushroom_19
+  - first:
+      213: -1660853890034145795
+    second: Poisonous Mushroom_20
+  - first:
+      213: -1402868334556626808
+    second: Poisonous Mushroom_21
+  - first:
+      213: 7170124247052693789
+    second: Poisonous Mushroom_22
+  - first:
+      213: -5988355302253448803
+    second: Poisonous Mushroom_23
+  - first:
+      213: -3883586519221600442
+    second: Poisonous Mushroom_24
+  - first:
+      213: 475008374881850791
+    second: Poisonous Mushroom_25
+  - first:
+      213: -1464959334719717846
+    second: Poisonous Mushroom_26
+  - first:
+      213: 1822093962890156573
+    second: Poisonous Mushroom_27
+  - first:
+      213: 4290683188619418154
+    second: Poisonous Mushroom_28
+  - first:
+      213: -7332946638751962494
+    second: Poisonous Mushroom_29
+  - first:
+      213: 3531538828743642825
+    second: Poisonous Mushroom_30
+  - first:
+      213: 1050339294859215609
+    second: Poisonous Mushroom_31
+  - first:
+      213: 5558843396947348691
+    second: Poisonous Mushroom_32
+  - first:
+      213: -822576619640761907
+    second: Poisonous Mushroom_33
+  - first:
+      213: 1693094564314351800
+    second: Poisonous Mushroom_34
+  - first:
+      213: -8871286809788139405
+    second: Poisonous Mushroom_35
+  - first:
+      213: 597079535161260787
+    second: Poisonous Mushroom_36
+  - first:
+      213: 5654306279652392476
+    second: Poisonous Mushroom_37
+  - first:
+      213: -7967669452946855051
+    second: Poisonous Mushroom_38
+  - first:
+      213: 3437260020001163617
+    second: Poisonous Mushroom_39
+  - first:
+      213: -5200299049138591085
+    second: Poisonous Mushroom_40
+  - first:
+      213: 5793767924405404831
+    second: Poisonous Mushroom_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poisonous Mushroom_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 277
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fb9f95fa9f8a34e9f2b715b67df223
+      internalID: 8564254581491443370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 277
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80408c3ef81d0747a98851977bffbcd
+      internalID: -7233899042135491853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 277
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb0b5d7fbd010942aec6e02efaf93f8
+      internalID: 6326945137433665363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 277
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb5efd92f291b04bbbc6b09a64953cb
+      internalID: -5457925529918762379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 196
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b59e25d5e9a244090fc5b46f229964
+      internalID: -1054060144418682503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 196
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4eae137aa466c45a3d0140e6851cc9
+      internalID: -4135191355138991835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 196
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5ab3de9f6d18a4183bcafbfeca1945
+      internalID: 5339067332210121788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 196
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4356060831372478da75846a9ab1e3
+      internalID: 6584431889930475042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 196
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2826fec12df72d46b1f2ddf3a1ad87b
+      internalID: -9011981684089648616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 104
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9549a682e48577143bcfaec1457a53ed
+      internalID: 1016282522497426023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 136
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c8d945cfd432145ba294419ae96f65
+      internalID: 7271615700895199103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 136
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b219c871450f44dba6131f82ffb165
+      internalID: -8636028189875094289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 136
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869bedc97511fae48a0c10d95354b410
+      internalID: 3682644698582690009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 115
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981438ff3b9013c469622f7993318673
+      internalID: 3528571469314831850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 115
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca4457c00a5fb04a8ad881dac3fcc42
+      internalID: -3568336111305124712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 115
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4c98794a8239e42a63df137fa07662
+      internalID: -6427390184240918068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 115
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d1836082ec29448ddeb9fdc423ab6
+      internalID: 3232764385147636922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 115
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fe58360e259a842a3b192213b90d90
+      internalID: -4062379573465993396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 115
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f812bc6ebe4f60469bf10a308bd321b
+      internalID: 6825313087127384515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bebd9cd9ddd3f9448735c6cdfdea7c6
+      internalID: -7697886903281835308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c70b2f855b0084fbd28be06cfa86e7
+      internalID: -1660853890034145795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 8
+        width: 102
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e69382e76e40740850adbaa273e9b2
+      internalID: -1402868334556626808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_22
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08172632911f8134f9f31c074d748be2
+      internalID: 7170124247052693789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 8
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06a3aad8df7364489a78343389698c8
+      internalID: -5988355302253448803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_24
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 8
+        width: 98
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e9e36eaeaded42955c8ff506fdffc
+      internalID: -3883586519221600442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_25
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 8
+        width: 104
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e66cd599caa841be20773ebe449e5
+      internalID: 475008374881850791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_26
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 8
+        width: 111
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a454f7f749a397b4c84013872173448f
+      internalID: -1464959334719717846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_27
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 8
+        width: 116
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25f1400821d9b348a627d5483e5e158
+      internalID: 1822093962890156573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_28
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d624b0961c2dc4eb14950ddaee96c8
+      internalID: 4290683188619418154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_29
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 8
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348557cc241826e42ac4281151c23e88
+      internalID: -7332946638751962494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_30
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 17
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a7c66244fec09499f0d3b70ed9eff5
+      internalID: 3531538828743642825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_31
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 16
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf25f8aae71f24ba12627940fff6ba
+      internalID: 1050339294859215609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_32
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 12
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a645eb7671b2b74db2e7eb6e58dad35
+      internalID: 5558843396947348691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_33
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 15
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1928eb473ff040418cf370162ff1237
+      internalID: -822576619640761907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_34
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 24
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca57a2ab24d0f74e9454e2d340b7ccf
+      internalID: 1693094564314351800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_35
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 13
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35deded36371b4644b6cdfd13cd2eeb6
+      internalID: -8871286809788139405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_36
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b786d093dc928ae489594a8ed1ef7e35
+      internalID: 597079535161260787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_37
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 8
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a7599dbdbd4704db6cdd8c5a8a9b68
+      internalID: 5654306279652392476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_38
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f408de7c655b64d97cd44aed239154
+      internalID: -7967669452946855051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_39
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 25
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7b6f9b744f27b4184efe1cff7693fd
+      internalID: 3437260020001163617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_40
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 11
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab1c53a4784e9448af6bdd172491e21
+      internalID: -5200299049138591085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poisonous Mushroom_41
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 8
+        width: 117
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40918dc821d541a439bfb3139e8f8b04
+      internalID: 5793767924405404831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1772692c5b6254d2fbd3a021aa7eb5c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

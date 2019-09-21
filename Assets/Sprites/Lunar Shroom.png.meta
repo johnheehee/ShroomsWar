@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: 421fb1aab935b47bc8d43ad2576d215f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1438797461947059209
+    second: Lunar Shroom_0
+  - first:
+      213: 3225415341643985403
+    second: Lunar Shroom_1
+  - first:
+      213: 7640080383368818731
+    second: Lunar Shroom_2
+  - first:
+      213: -5340252810960127194
+    second: Lunar Shroom_3
+  - first:
+      213: -3863111254926162972
+    second: Lunar Shroom_4
+  - first:
+      213: -7751407278799649410
+    second: Lunar Shroom_5
+  - first:
+      213: -7628831032902530047
+    second: Lunar Shroom_6
+  - first:
+      213: -4233406759103193042
+    second: Lunar Shroom_7
+  - first:
+      213: -7281422379684505860
+    second: Lunar Shroom_8
+  - first:
+      213: -4991121985150024189
+    second: Lunar Shroom_9
+  - first:
+      213: 6243602295962067824
+    second: Lunar Shroom_10
+  - first:
+      213: 5619919299364192034
+    second: Lunar Shroom_11
+  - first:
+      213: 5633002597893759983
+    second: Lunar Shroom_12
+  - first:
+      213: 1038426333964159561
+    second: Lunar Shroom_13
+  - first:
+      213: -9051354226220832491
+    second: Lunar Shroom_14
+  - first:
+      213: -4172923190058484068
+    second: Lunar Shroom_15
+  - first:
+      213: -3884312712569931869
+    second: Lunar Shroom_16
+  - first:
+      213: 3509379621701933714
+    second: Lunar Shroom_17
+  - first:
+      213: 7858761164698477559
+    second: Lunar Shroom_18
+  - first:
+      213: -3024556353731482026
+    second: Lunar Shroom_19
+  - first:
+      213: 1348954086434067921
+    second: Lunar Shroom_20
+  - first:
+      213: -904537643321604220
+    second: Lunar Shroom_21
+  - first:
+      213: 2966184503180325646
+    second: Lunar Shroom_22
+  - first:
+      213: 5863758443294640307
+    second: Lunar Shroom_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lunar Shroom_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 225
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1669fbb48c6b14ebfc694a17d4f3e3
+      internalID: 1438797461947059209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 225
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f2aa3d5858c1f419e6c54ea6e11f2e
+      internalID: 3225415341643985403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 227
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9400ea0127126c6448ec9425d9ca08cb
+      internalID: 7640080383368818731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 227
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b4d71397dc2ff45af6bb28be59e555
+      internalID: -5340252810960127194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 233
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3700f8311aac54da82c43a1453ca1a
+      internalID: -3863111254926162972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 228
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fb68498c0c8654fa8c3f585137cb4e
+      internalID: -7751407278799649410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 234
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5aa6e803bef3848bd105e63620725b
+      internalID: -7628831032902530047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1127e572b91ad4fa4cd3757ee620f4
+      internalID: -4233406759103193042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 156
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9092f00e7c51544ac8c855090967bb
+      internalID: -7281422379684505860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 162
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193dccbf98b491540af9cc0a067fcd63
+      internalID: -4991121985150024189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 164
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876ea4782a5e6ea4daf15855f815070b
+      internalID: 6243602295962067824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 164
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056b4f41ecb382a459fb707e4ab7bfa3
+      internalID: 5619919299364192034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 165
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34a0828413646443aa9a15e398a39ee
+      internalID: 5633002597893759983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 74
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6847dbfb08d5ec94e83093701d3fcea9
+      internalID: 1038426333964159561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 89
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebacdc44ed7eae47ac6dcb4cf44d827
+      internalID: -9051354226220832491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 89
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62ae846a1b98bb4ba2992737b625e5f
+      internalID: -4172923190058484068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 90
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc44b22334059b4dad5747f1b104353
+      internalID: -3884312712569931869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a042ec175dc5684880ce539d8e2450e
+      internalID: 3509379621701933714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_18
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 117
+        width: 97
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfa2fdf259eba649a979363cce8e44c
+      internalID: 7858761164698477559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7561771d8275368468bfef12e2201115
+      internalID: -3024556353731482026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 11
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dde95345848e849b84d3f27f5e0a1e
+      internalID: 1348954086434067921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 42
+        width: 95
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b340a529f9e59e4da53778cc9d79205
+      internalID: -904537643321604220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 11
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515e24d56286f464196729aa2d4dad3a
+      internalID: 2966184503180325646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Shroom_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84c219e142bd7c4cbb3b360f558ed75
+      internalID: 5863758443294640307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ab58d7ed03c0146b0afb531b75017a29
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

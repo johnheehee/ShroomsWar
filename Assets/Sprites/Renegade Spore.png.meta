@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: f7ece08f531d34d10aff5923761bb11a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2039365664401440885
+    second: Renegade Spore_0
+  - first:
+      213: -8128633526132674940
+    second: Renegade Spore_1
+  - first:
+      213: 5633186710620865499
+    second: Renegade Spore_2
+  - first:
+      213: 6653408124177841487
+    second: Renegade Spore_3
+  - first:
+      213: 8794905415087045745
+    second: Renegade Spore_4
+  - first:
+      213: -7966247652834138578
+    second: Renegade Spore_5
+  - first:
+      213: -3853400719521650389
+    second: Renegade Spore_6
+  - first:
+      213: 6953953106305549972
+    second: Renegade Spore_7
+  - first:
+      213: -4071115578616898664
+    second: Renegade Spore_8
+  - first:
+      213: -5486029160024255205
+    second: Renegade Spore_9
+  - first:
+      213: -1512952767950725972
+    second: Renegade Spore_10
+  - first:
+      213: -309846454560799370
+    second: Renegade Spore_11
+  - first:
+      213: -8195422373479652841
+    second: Renegade Spore_12
+  - first:
+      213: 5870967320156220452
+    second: Renegade Spore_13
+  - first:
+      213: 2916535729055640562
+    second: Renegade Spore_14
+  - first:
+      213: -4837928891364121456
+    second: Renegade Spore_15
+  - first:
+      213: -2074660989066204482
+    second: Renegade Spore_16
+  - first:
+      213: 8627563839782903887
+    second: Renegade Spore_17
+  - first:
+      213: 7802861577478908402
+    second: Renegade Spore_18
+  - first:
+      213: -7785141791530173719
+    second: Renegade Spore_19
+  - first:
+      213: 6966458356973234746
+    second: Renegade Spore_20
+  - first:
+      213: -8403544907870328570
+    second: Renegade Spore_21
+  - first:
+      213: 4934667991217644805
+    second: Renegade Spore_22
+  - first:
+      213: 3507606031193565918
+    second: Renegade Spore_23
+  - first:
+      213: 3009425044882596218
+    second: Renegade Spore_24
+  - first:
+      213: -3566709774108298832
+    second: Renegade Spore_25
+  - first:
+      213: 3822808474864483567
+    second: Renegade Spore_26
+  - first:
+      213: 8624930721612388581
+    second: Renegade Spore_27
+  - first:
+      213: -530526393906001709
+    second: Renegade Spore_28
+  - first:
+      213: -2353924465641871824
+    second: Renegade Spore_29
+  - first:
+      213: -3786765938701706045
+    second: Renegade Spore_30
+  - first:
+      213: -708430802873516120
+    second: Renegade Spore_31
+  - first:
+      213: 5234180287070250035
+    second: Renegade Spore_32
+  - first:
+      213: 6707579814288256703
+    second: Renegade Spore_33
+  - first:
+      213: 2588601477835017862
+    second: Renegade Spore_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Renegade Spore_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 177
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b7d029aa42c46d7a4bd029fa0317c8
+      internalID: -2039365664401440885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 177
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e9763bdbd8b440fb810a691e52b623
+      internalID: -8128633526132674940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 177
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eb7abf7f16440c2ac65cd8618f4342
+      internalID: 5633186710620865499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 177
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4a7e6116f84106852307b4b2b7bde
+      internalID: 6653408124177841487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 177
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729580bc611184bfca7c9f32a0304040
+      internalID: 8794905415087045745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 177
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfdce95857b94958b6be63695f5c14e
+      internalID: -7966247652834138578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 177
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f3992eecf964238ad11127650a7267
+      internalID: -3853400719521650389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 177
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08cea2271a11497aa8e980de7dfc5a0
+      internalID: 6953953106305549972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 177
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cbeedaf35e0495d968a38aee0e931f
+      internalID: -4071115578616898664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 177
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6c6f0d4d45245029190a0b158eed44
+      internalID: -5486029160024255205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 125
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676d5aaeabce747b38ee4d79997bb67f
+      internalID: -1512952767950725972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 125
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd347d4fb95b481a9382cbc1afafb8b
+      internalID: -309846454560799370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 125
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5812356bd017d41a9bd7aea5772cd81c
+      internalID: -8195422373479652841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 125
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae26b7d1c1c44497bcb29887ca6be1d
+      internalID: 5870967320156220452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 125
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af533ed18642a49418908f2d3cfde29f
+      internalID: 2916535729055640562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 125
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f30c9f9a31b4f61b7d1c7991cf2ca6
+      internalID: -4837928891364121456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 136
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502a5a7473fa34721b2118c5784020bd
+      internalID: -2074660989066204482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 136
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124d4358f3c29404bb3d4123966b4149
+      internalID: 8627563839782903887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_18
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 136
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6337dd1ca4454e3795ea6761bf5b1ba
+      internalID: 7802861577478908402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 115
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f901a905ddf4ba69b5d1900ec9f087
+      internalID: -7785141791530173719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 115
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24e46285012e4f0dbd3254dccadc75e
+      internalID: 6966458356973234746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 115
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca98de9d6707d4b6d8af527a7124f380
+      internalID: -8403544907870328570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 115
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315bb84e9307b4cd194f6cdf3e41c832
+      internalID: 4934667991217644805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 115
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45d24570739f48898660e71682a7f63
+      internalID: 3507606031193565918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 115
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467dab4841afb4e9baecd6ff58b4a99b
+      internalID: 3009425044882596218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 66
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce4a4c0d13564f6c87e92176de4848c
+      internalID: -3566709774108298832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d9d31351644d05bedc0bf06c68545
+      internalID: 3822808474864483567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eecb486aaaa447e19ffc173f4ca942e
+      internalID: 8624930721612388581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 7
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce6744e78cde4d9a97abb9cf48ce234
+      internalID: -530526393906001709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c94e4278614d3bbf1ddb4eae5e8cd
+      internalID: -2353924465641871824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6dae7bda7814757b8f9ad933d6dee9
+      internalID: -3786765938701706045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 9
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d0ca12527234dbfad864610e2087af
+      internalID: -708430802873516120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 9
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8e57aa756044819acdef0466b5e970
+      internalID: 5234180287070250035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_33
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 9
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0d49c6e70324086a65993848b5f460
+      internalID: 6707579814288256703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renegade Spore_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 9
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bcdf894464b4f71ab6f2455fd7c171
+      internalID: 2588601477835017862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 26c0ec26e45414369aee320960fa47b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

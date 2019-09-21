@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: 6db730a9f70b34fc39e9a67524e0985e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1280334284094038640
+    second: Mushmom_0
+  - first:
+      213: -3520403812065621559
+    second: Mushmom_1
+  - first:
+      213: 858756178095349204
+    second: Mushmom_2
+  - first:
+      213: 3813391476817112399
+    second: Mushmom_3
+  - first:
+      213: 6685997468551836330
+    second: Mushmom_4
+  - first:
+      213: 4853374119084381415
+    second: Mushmom_5
+  - first:
+      213: 3636069643068257008
+    second: Mushmom_6
+  - first:
+      213: -5055860450417171346
+    second: Mushmom_7
+  - first:
+      213: -6273758687357201724
+    second: Mushmom_8
+  - first:
+      213: 893018589262654990
+    second: Mushmom_9
+  - first:
+      213: 4667836705467853974
+    second: Mushmom_10
+  - first:
+      213: -284479791601638501
+    second: Mushmom_11
+  - first:
+      213: -4441848735533546718
+    second: Mushmom_12
+  - first:
+      213: 6062379846264702143
+    second: Mushmom_13
+  - first:
+      213: 1728706797224128353
+    second: Mushmom_14
+  - first:
+      213: 7579099842028168445
+    second: Mushmom_15
+  - first:
+      213: -6172909630683419693
+    second: Mushmom_16
+  - first:
+      213: -6233051552955451029
+    second: Mushmom_17
+  - first:
+      213: -3323036164839498867
+    second: Mushmom_18
+  - first:
+      213: -4669958395534523610
+    second: Mushmom_19
+  - first:
+      213: -1822756745184348215
+    second: Mushmom_20
+  - first:
+      213: 4689267169562513038
+    second: Mushmom_21
+  - first:
+      213: -3544891195500652416
+    second: Mushmom_22
+  - first:
+      213: 3225507806177406476
+    second: Mushmom_23
+  - first:
+      213: 195422479318131636
+    second: Mushmom_24
+  - first:
+      213: 8770007346251552689
+    second: Mushmom_25
+  - first:
+      213: -6779217768182291578
+    second: Mushmom_26
+  - first:
+      213: 1373349666509174046
+    second: Mushmom_27
+  - first:
+      213: 7821596431754499651
+    second: Mushmom_28
+  - first:
+      213: 4343050685843954134
+    second: Mushmom_29
+  - first:
+      213: -1448816048627614856
+    second: Mushmom_30
+  - first:
+      213: 7767360300523952591
+    second: Mushmom_31
+  - first:
+      213: -248958857863581037
+    second: Mushmom_32
+  - first:
+      213: 5140110580411860698
+    second: Mushmom_33
+  - first:
+      213: 4502110987724607761
+    second: Mushmom_34
+  - first:
+      213: 7317288993527172090
+    second: Mushmom_35
+  - first:
+      213: -7020441763691687356
+    second: Mushmom_36
+  - first:
+      213: 5798620160362536254
+    second: Mushmom_37
+  - first:
+      213: -5134053441704819113
+    second: Mushmom_38
+  - first:
+      213: 7938757812600602692
+    second: Mushmom_39
+  - first:
+      213: -1297066714128981311
+    second: Mushmom_40
+  - first:
+      213: 7254440091554290387
+    second: Mushmom_41
+  - first:
+      213: 5608503275943731182
+    second: Mushmom_42
+  - first:
+      213: -5541667103359581963
+    second: Mushmom_43
+  - first:
+      213: -860393926269882776
+    second: Mushmom_44
+  - first:
+      213: 6079231568866811806
+    second: Mushmom_45
+  - first:
+      213: -1347383041047053038
+    second: Mushmom_46
+  - first:
+      213: 4701153475842302813
+    second: Mushmom_47
+  - first:
+      213: 7445511496972565689
+    second: Mushmom_48
+  - first:
+      213: 6459995752369336933
+    second: Mushmom_49
+  - first:
+      213: 7190272838917751749
+    second: Mushmom_50
+  - first:
+      213: -4188928773537518423
+    second: Mushmom_51
+  - first:
+      213: -613562489375247808
+    second: Mushmom_52
+  - first:
+      213: 3106969249931675292
+    second: Mushmom_53
+  - first:
+      213: -5765329141032908770
+    second: Mushmom_54
+  - first:
+      213: -2243238748726712410
+    second: Mushmom_55
+  - first:
+      213: 7463561477792214906
+    second: Mushmom_56
+  - first:
+      213: -2007624201880517850
+    second: Mushmom_57
+  - first:
+      213: -2344086942719388488
+    second: Mushmom_58
+  - first:
+      213: 843490724326722552
+    second: Mushmom_59
+  - first:
+      213: 2530184986301173106
+    second: Mushmom_60
+  - first:
+      213: -5038064236354874415
+    second: Mushmom_61
+  - first:
+      213: 4347558489032738542
+    second: Mushmom_62
+  - first:
+      213: 8333627769753075540
+    second: Mushmom_63
+  - first:
+      213: 2902784201963603731
+    second: Mushmom_64
+  - first:
+      213: 6608437597345983879
+    second: Mushmom_65
+  - first:
+      213: -6322880026481838967
+    second: Mushmom_66
+  - first:
+      213: 1982142278021939254
+    second: Mushmom_67
+  - first:
+      213: -426275185063883463
+    second: Mushmom_68
+  - first:
+      213: -9105146730855527199
+    second: Mushmom_69
+  - first:
+      213: -4966571214262782159
+    second: Mushmom_70
+  - first:
+      213: 2654853068788068949
+    second: Mushmom_71
+  - first:
+      213: 6950613892921685392
+    second: Mushmom_72
+  - first:
+      213: -7144927255313526951
+    second: Mushmom_73
+  - first:
+      213: 6013000558833376784
+    second: Mushmom_74
+  - first:
+      213: 877885905660657583
+    second: Mushmom_75
+  - first:
+      213: 1831390113577966953
+    second: Mushmom_76
+  - first:
+      213: -2092990616411392665
+    second: Mushmom_77
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushmom_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1233
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2d406858ba24574aed44c0a0200a26
+      internalID: 1280334284094038640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1090
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051f8945ad2f54203a6e9d3596798723
+      internalID: -3520403812065621559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1090
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14a11b40116d433d9de0c986dca4769
+      internalID: 858756178095349204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1090
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff44185adabd46f5ab52d92567840fb
+      internalID: 3813391476817112399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1090
+        width: 118
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd76fe75f644b14a1f308846dc5eed
+      internalID: 6685997468551836330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1091
+        width: 118
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c150b6e86934fab8068e1e9067cc1d
+      internalID: 4853374119084381415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 951
+        width: 118
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee553e9fb7a3247b2a32d2fa93cfa36d
+      internalID: 3636069643068257008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 798
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73efb70ca4ebb4233ba1dbfa492c028d
+      internalID: -5055860450417171346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 657
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7b517f046414b82be110050cd1eb34
+      internalID: -6273758687357201724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 657
+        width: 118
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db57325e7b5c446f7bfa6614789d32bf
+      internalID: 893018589262654990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 657
+        width: 118
+        height: 125
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.5000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d568f4355d59408ba5720e42568e708
+      internalID: 4667836705467853974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 660
+        width: 118
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8949892cb79463d92ac62afda50ccd
+      internalID: -284479791601638501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 662
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46ef38be6c8245e59f57adb716ab99d
+      internalID: -4441848735533546718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 141
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ea9f273f82445b0b13e5e4b4ded2af
+      internalID: -5765329141032908770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 143
+        width: 166
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f0088c5c2d64bbc8e8a943ec054ae4
+      internalID: -2243238748726712410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 143
+        width: 174
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb20c41e5024d48a88749fac7138fb92
+      internalID: 7463561477792214906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_58
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 147
+        width: 130
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2db4bf047674541a064396ba65eced
+      internalID: -2344086942719388488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 30
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d72257407444d2aaacc7be08724ee7
+      internalID: -5038064236354874415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushmom_62
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 33
+        width: 153
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18412766dbd74efeaf1f1270f4d8d62
+      internalID: 4347558489032738542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7177eb99b67504fb4bece8fcd4b771a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

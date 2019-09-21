@@ -1,0 +1,1205 @@
+fileFormatVersion: 2
+guid: 295599495b3287e429cdf40abafd3fac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8023237141331649993
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_0
+  - first:
+      213: 2460708271128853594
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_1
+  - first:
+      213: 6553364575455930809
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_2
+  - first:
+      213: -8629298117107397008
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_3
+  - first:
+      213: -5808645523326051175
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_4
+  - first:
+      213: -527764442755321631
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_5
+  - first:
+      213: 3505325000720888986
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_6
+  - first:
+      213: 8589377012325163721
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_7
+  - first:
+      213: 6374243586723891411
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_8
+  - first:
+      213: -8855952350678519339
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_9
+  - first:
+      213: -2975986165623935340
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_10
+  - first:
+      213: -1252776093811610632
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_11
+  - first:
+      213: 1618967399367982729
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_12
+  - first:
+      213: -3088379692689975947
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_13
+  - first:
+      213: 7594173120686206297
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_14
+  - first:
+      213: 3947761812565316347
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_15
+  - first:
+      213: -5256448913320982053
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_16
+  - first:
+      213: 670430312040916473
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_17
+  - first:
+      213: -8061636105553104431
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_18
+  - first:
+      213: 1691866822732305836
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_19
+  - first:
+      213: -1821984645845167482
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_20
+  - first:
+      213: 670145714380086116
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_21
+  - first:
+      213: 2320126344880563
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_22
+  - first:
+      213: -1923023671066960261
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_23
+  - first:
+      213: -8327515822111331896
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_24
+  - first:
+      213: 2006658815646872505
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_25
+  - first:
+      213: 7190824164064663316
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_26
+  - first:
+      213: 8058747523887964630
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_27
+  - first:
+      213: 4010158898367731325
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_28
+  - first:
+      213: 2508248777024503372
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_29
+  - first:
+      213: 290195384329747688
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_30
+  - first:
+      213: -6146362705621691687
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_31
+  - first:
+      213: -656796626372827898
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_32
+  - first:
+      213: -1811812320845438695
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_33
+  - first:
+      213: 351494679442092444
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_34
+  - first:
+      213: -8022488277128711598
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_35
+  - first:
+      213: 6445278076742597068
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_36
+  - first:
+      213: -1898678783431436750
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_37
+  - first:
+      213: 3017125798002535246
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_38
+  - first:
+      213: -1050586305959662067
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_39
+  - first:
+      213: 1389845600282111933
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_40
+  - first:
+      213: 4123074850687183371
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_41
+  - first:
+      213: -7752147786930914383
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_42
+  - first:
+      213: 9048359685894421663
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_43
+  - first:
+      213: 690175309944999970
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_44
+  - first:
+      213: 1432231601583779839
+    second: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 162
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6343c2a87ae686948a3c3daf4b3c0fa8
+      internalID: 8023237141331649993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 163
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d1b892b6aa1c4f9c14cb005f44808
+      internalID: 2460708271128853594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 163
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148d5fa52d9625048b61d7143c3c9d25
+      internalID: 6553364575455930809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 162
+        width: 105
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c675700c8faea054cb2c5269b8432b78
+      internalID: -8629298117107397008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 81
+        width: 152
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8d870f71d3b264fa0d919590b8adb8
+      internalID: -5808645523326051175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e14ff26217122e41bfa8c276d714e43
+      internalID: -527764442755321631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 35
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b9b8dc2b694c046ad6a10242e5c0a8
+      internalID: 3505325000720888986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 31
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c8d1cc174bc2e4b85e3045509dd991
+      internalID: 8589377012325163721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c128626570ea241b67802192ab4d3c
+      internalID: 6374243586723891411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 34
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eee6298ba7244c4691b30170bdd38b7
+      internalID: -8855952350678519339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8a060b6d67be643a1e1038b17f87d6
+      internalID: -2975986165623935340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 34
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a5f39f3c0d8af47aab2a398ea584a4
+      internalID: -1252776093811610632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1f4293520f034a8c52513ab03c8b9
+      internalID: 1618967399367982729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6779931325d6a41b7a79295c3b1188
+      internalID: -3088379692689975947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 34
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17806bc5f95dc6a4a8fe3cfcec5d4408
+      internalID: 7594173120686206297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 35
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27838410adb9f74fac92ad8145eb488
+      internalID: 3947761812565316347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 35
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6ac840840d44a459b10afa346dcfb1
+      internalID: -5256448913320982053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 34
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa82811374bfb1478d821bb8fdf7860
+      internalID: 670430312040916473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 31
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a81c0c20663a8548927990b5bd37b4d
+      internalID: -8061636105553104431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb2973d2bc11784dbac1dae5c83ffe3
+      internalID: 1691866822732305836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62ab53e0692344ca577ce858b81ef7
+      internalID: -1821984645845167482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 18
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c1a2cbd90c94441bc0ea3f044ec6f4
+      internalID: 670145714380086116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65d534be59ab149bf74ee9099656a2
+      internalID: 2320126344880563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567c16bc4aa985948b4ba0b68e46346f
+      internalID: -1923023671066960261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f21e9b3ac78a1a4d8cc902f78c80f65
+      internalID: -8327515822111331896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 18
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381e840f28c1bbf44b8ecc5f6f220dd8
+      internalID: 2006658815646872505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058674b3691fce046b74ea0088c8927d
+      internalID: 7190824164064663316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fefe6834bbcc64d818e464a98a4912
+      internalID: 8058747523887964630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733510a2e8a466643a9dac9882fd68bc
+      internalID: 4010158898367731325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff00820c90c222e41b5e1a011587f692
+      internalID: 2508248777024503372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 15
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57f8e5551aa5f944af89faae878361e
+      internalID: 290195384329747688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc587065fc1150438ac93c744693774
+      internalID: -6146362705621691687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4631bf1a310a04b88bf00681596a14
+      internalID: -656796626372827898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b130f8f0e154db4ba05737b5926b6cf
+      internalID: -1811812320845438695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 19
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b89653f0bed2bd43b5957384f89a295
+      internalID: 351494679442092444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 18
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d175ee4df43970d4287c601d78466c0d
+      internalID: -8022488277128711598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_36
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a656965334f9c624aa5e1828297e4ee1
+      internalID: 6445278076742597068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 19
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6128ae062209d4d89f7f423574c48d
+      internalID: -1898678783431436750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 18
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caab007cf29b8d744bfe43d1c92a1bb8
+      internalID: 3017125798002535246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eb7e45f69fa624e901f7b311c9465d
+      internalID: -1050586305959662067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b2ad0d7c3a54e4f8807d9691186849
+      internalID: 1389845600282111933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5255a318e3b9adc479ec57829e708385
+      internalID: 4123074850687183371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a815d33eaf9ac9c4e89482a3099911c0
+      internalID: -7752147786930914383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4f9896fb9b45042be027d3a989e642
+      internalID: 9048359685894421663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dabdb5a46a6afb47babf1fa66dd8336
+      internalID: 690175309944999970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Super Smash Bros - Game Set and Go Texts_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eca5eaf41e4384aba2291e7fe431da
+      internalID: 1432231601583779839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d457715e04c2e5c4fb7996e8ccec2501
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
